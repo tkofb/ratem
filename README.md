@@ -1,9 +1,9 @@
 # ratem
-a rating algorithm based on the stock predictions of twitter users.
+a rating algorithm based on the stock predictions of reddit users.
 
 
 ### installation process
 
-pip install playwright jmespath scrapfly-sdk
+make an app in the reddit developer portal
 
-playwright install
+install praw
